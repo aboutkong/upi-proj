@@ -1,0 +1,2 @@
+# paket minimal untuk build C static
+sudo apt install -y build-essential git musl-tools clang
